@@ -20,7 +20,7 @@ I. MÔ TẢ VÀ YÊU CẦU CÔNG VIỆC
     - Good understanding of Web Accessibility, Search Engine Optimization (SEO); developing cross-browser and cross-platform       compatible solutions
     - Excellent capability in Research &amp; Development (R&amp;D)
     - Good communication in English 
-  II. SỐ LƯỢNG ỨNG VIÊN 
+II. SỐ LƯỢNG ỨNG VIÊN 
     - Số lượng ứng viên tuyển dụng: 03 nhân viên 
     - Lương thỏa thuận.
     - Email for applications :ducquyen2509@gmail.com
