@@ -9,10 +9,11 @@ I. MÔ TẢ VÀ YÊU CẦU CÔNG VIỆC
     - Constantly seeking to develop yourself by learning new technologies and keeping abreast of your markets developments. 
     - Contributing to documentation such as instructional, technical specification.
     - Conduct technical training.  
-  2.Requirement  - University/College graduate in software engineering or relevant field.
+  2.Requirement  
+    - University/College graduate in software engineering or relevant field.
     - 1-2 years of experience in HTML5, CSS3, AJAX/JavaScript
     - Mastering in JavaScript &amp; JQuery, experience with JavaScript pattern design (e.g: module &amp; Revealing module          pattern…) and unit testing
-    - Hands-on experience in several products and technologies: LESS, SASS, YUI, OO CSS, Angular, Backbone, Bootstrap,             XML/XSLT
+    - Hands-on experience in several products and technologies: LESS, SASS, YUI, OO CSS, Angular, Backbone,                       Bootstrap,XML/XSLT
     - Experience with tools: Eclipse, SVN/GIT 
     - Experience integrating with server-side code (Spring, Struts) to produce dynamic pages
     - Database: MySQL 
