@@ -25,6 +25,7 @@ I. MÔ TẢ VÀ YÊU CẦU CÔNG VIỆC
 
 II. SỐ LƯỢNG ỨNG VIÊN
 
-- Số lượng ứng viên tuyển dụng: 03 nhân viên
-- Lương thỏa thuận.
+     - Số lượng ứng viên tuyển dụng: 03 nhân viên
+     - Lương thỏa thuận.
+     - Email for applications : dev1@longbeachvn.com or ducquyen2509@gmail.com
 
