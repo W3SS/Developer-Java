@@ -22,7 +22,9 @@ I. MÔ TẢ VÀ YÊU CẦU CÔNG VIỆC
     - Excellent capability in Research & Development (R&D)
     - Good communication in English
 
-II. SỐ LƯỢNG ỨNG VIÊN 
-    - Số lượng ứng viên tuyển dụng: 03 nhân viên.
-    - Lương thỏa thuận.
-    - Email for applications :ducquyen2509@gmail.com.
+
+II. SỐ LƯỢNG ỨNG VIÊN
+
+- Số lượng ứng viên tuyển dụng: 03 nhân viên
+- Lương thỏa thuận.
+
