@@ -12,7 +12,7 @@ I. MÔ TẢ VÀ YÊU CẦU CÔNG VIỆC
     - Contributing to documentation such as instructional, technical specification.
     - Conduct technical training.
  2. Requirement  
-  - 1-2 years of experience in HTML5, CSS3, AJAX/JavaScript
+    - 1-2 years of experience in HTML5, CSS3, AJAX/JavaScript
     - Mastering in JavaScript & JQuery, experience with JavaScript pattern design (e.g: module & Revealing module pattern…) and unit testing
     - Hands-on experience in several products and technologies: LESS, SASS, YUI, OO CSS, Angular, Backbone, Bootstrap, XML/XSLT
     - Experience with tools: Eclipse, SVN/GIT
@@ -23,6 +23,6 @@ I. MÔ TẢ VÀ YÊU CẦU CÔNG VIỆC
     - Good communication in English
 
 II. SỐ LƯỢNG ỨNG VIÊN 
-    - Số lượng ứng viên tuyển dụng: 03 nhân viên
-    - Lương thỏa thuận
-    - Email for applications :ducquyen2509@gmail.com
+    - Số lượng ứng viên tuyển dụng: 03 nhân viên.
+    - Lương thỏa thuận.
+    - Email for applications :ducquyen2509@gmail.com.
